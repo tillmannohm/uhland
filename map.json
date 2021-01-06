@@ -107,9 +107,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/wbo.ophir.dev\/boards\/vTug6acFATpfZpIBnShstPt8iN0r8XFdrCMcGz67QTM-"
+                 "value":"kitchen"
                 }],
          "type":"tilelayer",
          "visible":true,
